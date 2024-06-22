@@ -7,7 +7,7 @@ ros_learning repository
 
 1. src--存放c++节点源代码
 2. srv--存放自定义服务接口
-3. scripts：存放python节点代码
+3. scripts--存放python节点代码
 
 
 ## Contributor
